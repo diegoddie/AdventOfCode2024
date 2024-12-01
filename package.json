@@ -1,0 +1,17 @@
+{
+  "name": "adventofcode2024",
+  "version": "1.0.0",
+  "description": "This repository contains my solutions for Advent of Code 2024, an exciting programming challenge series that takes place every year from December 1st to 25th, where every day 2 new coding challenges are given.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
