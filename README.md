@@ -21,6 +21,6 @@ This repository contains my solutions for Advent of Code 2024, an exciting progr
 - [Official Advent of Code Website](https://adventofcode.com/2024)
 
 ## Progress Tracking
-🎄 Days Completed: 3/25 
+🎄 Days Completed: 4/25 
 
-⭐ Stars: 6/50
+⭐ Stars: 7/50
